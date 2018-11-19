@@ -1,5 +1,8 @@
 _repo: Winning-His-Y-A-Story-of-School-Athletics_58192
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58192-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58192#Winning-His-Y-A-Story-of-School-Athletics
 gutenberg_issued: '2018-10-30'
 gutenberg_type: Text
 identifiers:
